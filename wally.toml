@@ -1,0 +1,9 @@
+[package]
+name = "ewanophobia/fusion-blurryframe"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+authors = []
+
+[dependencies]
+Fusion = "elttob/fusion@0.2.0"

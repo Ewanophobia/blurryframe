@@ -1,0 +1,12 @@
+{
+  "name": "iron",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "BlurryFrame": {
+        "$path": "src"
+      }
+    }
+  }
+}
