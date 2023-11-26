@@ -1,6 +1,6 @@
 # BlurryFrame
 
-a blurry component
+a blurry component for fusion
 
 # install
 
